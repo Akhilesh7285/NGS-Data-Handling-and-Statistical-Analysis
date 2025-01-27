@@ -95,5 +95,3 @@ The coverage data for each tissue type was visualized using:
 This study demonstrates that Phased Methylation Patterns (PMPs) are more reliable biomarkers for tissue differentiation compared to individual CpG sites. The analysis shows that PMPs exhibit higher specificity, especially when sequencing depth is increased, and they offer a more robust means of classifying tissues with minimal false positives. The use of machine learning and statistical approaches further highlights the potential of PMPs as a promising tool in bioinformatics for tissue-specific biomarker discovery.
 
 ---
-
-
