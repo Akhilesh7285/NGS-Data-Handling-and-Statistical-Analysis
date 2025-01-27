@@ -1,0 +1,4 @@
+PMP,Read Threshold (Rounded),Lower CI (95%),Upper CI (95%)
+PMP1,750.0,0.7232,0.7768
+PMP2,800.0,0.7752,0.8248
+PMP3,900.0,0.8814,0.9186
