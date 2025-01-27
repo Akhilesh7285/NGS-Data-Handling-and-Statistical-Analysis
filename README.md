@@ -1,1 +1,2 @@
-# NGS-Data-Analysis
+# NGS-Data Handling and Statistical Analysis
+
